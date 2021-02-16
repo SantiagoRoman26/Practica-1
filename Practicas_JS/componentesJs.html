@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Practicas js </title>
+    <script type="text/javascript" src="js/documento.js" > </script>
+</head>
+
+<body>
+    <h2>Saludo en javascript </h2>
+    <input type="button" value="saludar" onclick="saludar()">
+
+    <h2>suma de 2 numeros </h2>
+    <label>Numero 1:</label> <input type="text" name="n1" id="n1"><br>
+    <label>Numero 2:</label> <input type="text" name="n2" id="n2"><br>
+    <button onclick="sumar()">calcular </button>
+
+    <h2>Manejo de cadenas </h2>
+    <label id="cadena">haga click para invertir la cadena</label>
+    <button onclick="invertir()">invertir </button>
+
+    <h2>Validacion de formulaerios </h2>
+    <form name="formulario">
+        <label>ingrese sus nombres</label>
+        <input type="text" name="nombres" id="nombres">
+        <button onclick="validarFormulario()">Registrar </button>
+    </form>
+
+    <h2>Validación de Formularios 2</h2>
+    <form name="formulario">
+        <label>Ingrese sus nombres </label>
+        <input type="text" name="nombres1" id="nombres1"> <span id="mensaje_nombres"></span><br>
+        <label>Ingrese sus email </label>
+        <input type="email" name="email" id="email"><br>
+        <label>Ingrese sus Clave </label>
+        <input type="password" name="password" id="password"><br>
+        <label>Ingrese sus Repetir Clave </label>
+        <input type="password" name="password1" id="password1"><br>
+        <button type="button" id="btn_validar"> Registrar </button>
+    </form>
+</body>
+
+</html>
