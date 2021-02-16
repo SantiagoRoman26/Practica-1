@@ -1,0 +1,30 @@
+file:///var/www/html/practica7/index.html {"mtime":1610680820582,"ctime":1610680630158,"size":726,"etag":"36ao2gll3nd","orphaned":false}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    
+    <title>Index</title>
+</head>
+
+<body>
+    <button name="Agregar" id="Agregar" class="btnAgregar" style="right: auto;">Add</button><br>
+    <table class="table table-bordered">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!--algo-->
+        </tbody>
+    </table>
+</body>
+
+</html>

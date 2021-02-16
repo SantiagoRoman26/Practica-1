@@ -1,0 +1,3 @@
+[2021-01-14 22:16:54.129] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/practica7/.vscode'
+[2021-01-14 22:20:21.701] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/.vscode'
+[2021-01-14 22:20:35.516] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/practica7/.vscode'

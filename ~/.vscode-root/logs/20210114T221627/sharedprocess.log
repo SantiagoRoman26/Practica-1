@@ -1,0 +1,3 @@
+[2021-01-14 22:16:31.624] [sharedprocess] [info] main {"machineId":"0d1491cc0d19e1b3f9e4e92c15ea316696b59218cbaab122a7eac0dfbd1b55a9","windowId":2}
+[2021-01-14 22:16:31.844] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/practicas_jquery/crud1/~/.vscode-root/User/snippets'
+[2021-01-14 22:17:11.664] [sharedprocess] [info] Starting to clean up unused language packs.
