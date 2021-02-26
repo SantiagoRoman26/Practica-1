@@ -1,0 +1,21 @@
+a{
+    color: #ff000f;
+    text-decoration: none;
+}
+a:visited{
+    color: #00aa00;
+}
+a:hover{
+    color:#fff;
+    background-color: pink;
+    text-decoration: underline;
+}
+a:focus{
+    color: #9999ff;
+    text-decoration: dotted;
+}
+a:active{
+    color: #558899;
+    background-color: #fff;
+    text-decoration: line-through;
+}
